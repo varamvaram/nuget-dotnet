@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqJrJM2O9xF0z0h1fsAArVQLNhxNL6aEcuy+MHAYYl4Xb7PEQXfT7DEz4oBfKiFo3TyzLaDUE2XyHob5MIf0+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\nugetdotnet\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\calculater\\3.0.0\\calculater.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
