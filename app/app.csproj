@@ -8,7 +8,7 @@
     <RestoreSources>$(RestoreSources);C:\Users\Admin\Desktop\nugetdotnet\library\bin\Debug;https://api.nuget.org/v3/index.json</RestoreSources>
   </PropertyGroup>
   <packageSources>
-    <add key="LocalSourceName" value="c:\Users\Admin\Desktop\nugetdotnet\app" />
+    <add key="LocalSourceName" value="C:\Users\Admin\Desktop\nugetdotnet\library\bin\Debug" />
   </packageSources>
 
   <ItemGroup>
