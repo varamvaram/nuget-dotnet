@@ -7,10 +7,7 @@
     <Nullable>enable</Nullable>
     <RestoreSources>$(RestoreSources);C:\Users\Admin\Desktop\nugetdotnet\library\bin\Debug;https://api.nuget.org/v3/index.json</RestoreSources>
   </PropertyGroup>
-  <packageSources>
-    <add key="LocalSourceName" value="c:\Users\Admin\Desktop\nugetdotnet\app\" />
-  </packageSources>
-
+  
   <ItemGroup>
     <PackageReference Include="calculater" Version="3.0.0" />
   </ItemGroup>
