@@ -13,7 +13,7 @@ jobs:
 
     env:
       BUILD_CONFIG: 'Release'
-      SOLUTION: "C:/Users/Admin/Desktop/nugetdotnet/app/app.csproj"
+      SOLUTION: "C:/Users/Admin/Desktop/nugetdotnet/library.csproj"
 
     runs-on: ubuntu-latest
 
